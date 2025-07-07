@@ -1,0 +1,12 @@
+name: RPackageFinal
+title: RPackageFinal
+username: rpackage
+account: rpackage
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12930507
+bundleId: 9255626
+url: https://rpackage.shinyapps.io/RPackageFinal/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
